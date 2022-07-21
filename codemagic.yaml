@@ -30,4 +30,4 @@ workflows:
       scripts:
         - name: HTTP notification
           script: |
-            curl https://app.putrasmart.combackend/api/observe/notice/ebac072c-b191-2048-6170-eae2ca4f724a
+            curl https://app.putrasmart.com/backend/api/observe/notice/ebac072c-b191-2048-6170-eae2ca4f724a
