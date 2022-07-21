@@ -1,6 +1,4 @@
-# flangapp_app
-
-A new Flutter project.
+# APK Builder App
 
 ## Getting Started
 
